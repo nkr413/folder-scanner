@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 native-dialog = "0.6.3"
 thiserror = "1.0.31"
+bytesize = "1.1.0"
